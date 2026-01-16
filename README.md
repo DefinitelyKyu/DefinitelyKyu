@@ -1,4 +1,4 @@
-# Welcome to my profile
+<p align="center"># Welcome to my profile</p>
 
 ---
 <p align="center">
@@ -7,9 +7,9 @@
   </a>
 </p>
 
----
-# About me
+<p align="center"># About me</p>
 Name : Kyu
+<br>
 Hobbies : Learning
 
 <!--
