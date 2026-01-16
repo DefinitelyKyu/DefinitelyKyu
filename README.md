@@ -8,7 +8,8 @@
 
 <p align="center">just here to learn</p>
 <hr>
-# <p>About me</p>
+<h1 p align="center">About me</h1>
+<hr>
 
 - Name: Kyu
 - Hobbies: Learning
