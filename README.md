@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p><i>I will learn what I want</i></p>
+<p align="center">just here to learn</p>
 
 # <p>About me</p>
 
