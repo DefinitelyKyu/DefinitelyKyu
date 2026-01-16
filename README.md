@@ -7,7 +7,7 @@
 
 <p><i>I will learn what I want</i></p>
 
-#<align="center">About me</h2>
+# <p>About me</p>
 
 - Name: Kyu
 - Hobbies: Learning
